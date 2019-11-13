@@ -1,2 +1,1 @@
-# 09-Juicy-Breakout
-A modified version of Breakout for project 9
+This project contains a modified version of the game Breakout for project 9. The sprites for the tiles have been modified to be in a alternating red/yellow pattern. A sound effect also plays when the ball comes into contact with a tile.
